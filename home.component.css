@@ -1,0 +1,67 @@
+.f h1{
+    text-align: center;
+    color:rgb(81, 227, 81);;
+    margin-top: 3%;
+}
+.f img{
+    margin-left: 20%;
+    cursor: pointer;
+}
+p{
+    cursor: pointer;
+}
+.f h1{
+    cursor: pointer;
+}
+ body{
+    background-image: url("/assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+   
+}  
+.f img{
+    padding-left: 9%;
+}
+.f2{
+    margin-left: 30%;
+}
+.f3{
+    margin-left: 30%;
+}
+.f4{
+    margin-left: 30%;
+}
+.f5{
+    margin-left: 30%;
+}
+.email input{
+    width: 80%;
+    height: 30px;
+    margin-left: 10%;
+}
+.comment textarea{
+    width: 80%;
+    height: 100px;
+    margin-left: 10%;
+}
+fieldset{
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 200px;
+}
+.submit button{
+    margin-left: 40%;
+    width: 20%;
+    height: 25px;
+    border-radius: 7px;
+    border: 1px solid blue;
+    cursor: pointer;
+    
+}
+.submit button:hover{
+    background-color: rgb(76, 189, 255);
+}
+.sdf{
+    text-decoration: none;
+}
